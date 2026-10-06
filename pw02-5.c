@@ -1,3 +1,5 @@
+//nano pw02-5.c
+
 #include <stdio.h>
 #include <stdint.h>
 int main(void) {
@@ -21,3 +23,6 @@ int main(void) {
            (unsigned long long)UINT32_MAX - 0 + 1);
     return 0;
 }
+
+// gcc pw02-5.c -o pw02-5
+//./pw02-5
