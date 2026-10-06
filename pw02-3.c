@@ -1,3 +1,5 @@
+//nano pw02-3.c
+
 #include <stdio.h>
 int main(void) {
     int dec = 10;
@@ -14,3 +16,5 @@ int main(void) {
     printf("CHAR_LIT_VAR_STR: %zu %zu %zu\n", sizeof('A'), sizeof(ch), sizeof("A"));
     return 0;
 }
+//gcc pw01-2.c -o pw02-3
+// ./pw02-3
