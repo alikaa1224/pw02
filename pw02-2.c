@@ -1,3 +1,5 @@
+//nano pw01-2.c
+
 #include <stdio.h>
 #include <stdbool.h>
 int main(void) {
@@ -12,3 +14,6 @@ int main(void) {
     printf("FLAGS_SUM: %d\n", flags_sum);
     return 0;
 }
+
+//gcc pw02-1.c -o pw02-1
+//./pw02-1
