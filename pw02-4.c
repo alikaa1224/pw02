@@ -1,3 +1,5 @@
+//nano pw02-4.c
+
 #include <stdio.h>
 #include <limits.h>
 int main(void) {
@@ -8,3 +10,6 @@ int main(void) {
     printf("RANGE_OK: %d\n", range_ok);
     return 0;
 }
+
+//gcc pw02-4.c -o pw02-4
+//./pw02-4
