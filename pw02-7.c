@@ -1,3 +1,5 @@
+//nano pw02-7.c
+
 #include <stdio.h>
 int main(void) {
     long double ld_val;
@@ -12,3 +14,6 @@ int main(void) {
     printf("LDOUBLE+1: %.6Lf\n", ld_val + 1.0L);
     return 0;
 }
+
+//gcc pw02-7.c -o pw02-7
+// ./pw02-7
