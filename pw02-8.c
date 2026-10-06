@@ -1,3 +1,5 @@
+//nano pw02-8.c
+
 #include <stdio.h>
 #include <float.h>
 int main(void) {
@@ -9,3 +11,6 @@ int main(void) {
            sizeof(long double), LDBL_DIG, LDBL_MAX);
     return 0;
 }
+
+//gcc pw02-8.c -o pw02-8
+// ./pw02-8
