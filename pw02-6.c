@@ -1,3 +1,5 @@
+//nano pw02-6.c
+
 #include <stdio.h>
 #include <stdint.h>
 int main(void) {
@@ -11,3 +13,5 @@ int main(void) {
     printf("SQR: %u\n", (unsigned int)sqr_res);
     return 0;
 }
+//gcc pw02-5.c -o pw02-6
+//./pw02-6
