@@ -15,5 +15,5 @@ int main(void) {
     return 0;
 }
 
-//компиляция - gcc pw02-1.c -o pw02-1
-//запуск - ./pw02-1
+//gcc pw02-1.c -o pw02-1
+// ./pw02-1
