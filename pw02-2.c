@@ -1,4 +1,4 @@
-//nano pw01-2.c
+//nano pw02-2.c
 
 #include <stdio.h>
 #include <stdbool.h>
@@ -15,5 +15,5 @@ int main(void) {
     return 0;
 }
 
-//gcc pw02-1.c -o pw02-1
-//./pw02-1
+//gcc pw02-2.c -o pw02-2
+//./pw02-2
