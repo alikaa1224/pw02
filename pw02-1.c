@@ -2,6 +2,7 @@
 //nano pw02-1.c
 
 #include <stdio.h>
+
 int main(void) {
     int id;
     int version;
