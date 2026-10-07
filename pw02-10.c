@@ -1,4 +1,4 @@
-//nano pw02-2.c
+//nano pw02-10.c
 
 #include <stdio.h>
 #include <stdint.h>
@@ -16,3 +16,5 @@ int main(void) {
     printf("CHECKSUM: %u\n", checksum);
     return 0;
 }
+//gcc pw02-10.c -o pw02-10
+//./pw02-10
