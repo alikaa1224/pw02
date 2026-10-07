@@ -1,3 +1,5 @@
+//nano pw02-2.c
+
 #include <stdio.h>
 #include <stdint.h>
 int main(void) {
